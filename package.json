@@ -1,0 +1,1 @@
+{"description":"Telegram group moderation bot for @Deegeen_bot: welcomes, rules, link/spam filtering, warnings, mute/kick/ban admin commands.","engines":{"node":">=22.5"},"name":"deegeen-telegram-bot","private":true,"scripts":{"start":"node server.mjs","test":"node test/logic.test.mjs"},"type":"module","version":"1.0.0"}
